@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arwin</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
-- 🔭 I’m currently working Frenalancer **Not Yet!!**
+- 🔭 I’m currently working Frenalancer
 
-- My Personalty **What Do You Think My Persoalty?🧐🙂‍↔️**
+- My Personalty **What Do You Think My Persoalty Is?🧐🙂‍↔️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
