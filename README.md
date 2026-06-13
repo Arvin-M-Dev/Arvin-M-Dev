@@ -1,23 +1,3 @@
-<style>
-  .social-container__wrapper{
-        display: flex;
-    position: relative;
-    align-items: center;
-    justify-content: center;
-    padding: 1.5rem;
-    border-radius: 100%;
-    fill: #000;
-    background-color: #fff;
-    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.05);
-    transition: all 0.3s cubic-bezier(0.42, 0, 0.44, 1.68);
-    color: #fff;
-  }
-  .social-container__wrapper:hover{
-    background-color: #fe107c);
-    fill: #fff;
-  }
-</style>
-
 <h1 align="center">Hi 👋, I'm Arwin</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
