@@ -2,7 +2,7 @@
 
 ### Frontend Developer👨‍💻📔
 
-- 💬 Ask me about **React, Web Development**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **arvinmardani9@gmail.com**
 
