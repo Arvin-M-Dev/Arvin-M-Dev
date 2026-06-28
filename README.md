@@ -73,49 +73,42 @@
 
 > 🎯 Ranked by difficulty. Each challenge sharpens a new skill.
 
-<details>
-<summary><b>⬜ NEWBIE LEVEL — Fundamentals Unlocked</b></summary>
+---
 
-<br/>
+#### ⬜ Newbie
 
-| Project | Stack | Status |
-|:---|:---|:---:|
-| *(Add your Newbie projects here)* | `HTML` `CSS` | ✅ |
+<!-- Add Newbie badges here. Example:
+[![Project Name](https://img.shields.io/badge/⬜_Newbie-Project_Name-grey?style=flat-square&logo=frontendmentor)](URL)
+-->
 
-</details>
+*No Newbie challenges yet — coming soon!*
 
-<details>
-<summary><b>🟦 JUNIOR LEVEL — Logic Engaged</b></summary>
+---
 
-<br/>
+#### 🟦 Junior
 
-| Project | Stack | Status |
-|:---|:---|:---:|
-| *(Add your Junior projects here)* | `HTML` `CSS` `JS` | ✅ |
+[![Age Calculator](https://img.shields.io/badge/🟦_Junior-Age_Calculator-1572B6?style=flat-square)](https://github.com/Arvin-M-Dev/Age-Calculator)
+[![Extensions Manager](https://img.shields.io/badge/🟦_Junior-Extensions_Manager-1572B6?style=flat-square)](https://github.com/Arvin-M-Dev/Extensions-project)
 
-</details>
+---
 
-<details>
-<summary><b>🟨 INTERMEDIATE LEVEL — Systems Online</b></summary>
+#### 🟨 Intermediate
 
-<br/>
+<!-- Add Intermediate badges here. Example:
+[![Project Name](https://img.shields.io/badge/🟨_Intermediate-Project_Name-e6a817?style=flat-square)](URL)
+-->
 
-| Project | Stack | Status |
-|:---|:---|:---:|
-| *(Add your Intermediate projects here)* | `HTML` `CSS` `JS` | ✅ |
+*No Intermediate challenges yet — keep going!*
 
-</details>
+---
 
-<details>
-<summary><b>🟥 ADVANCED LEVEL — Full Power Mode</b></summary>
+#### 🟥 Advanced
 
-<br/>
+<!-- Add Advanced badges here. Example:
+[![Project Name](https://img.shields.io/badge/🟥_Advanced-Project_Name-cc0000?style=flat-square)](URL)
+-->
 
-| Project | Stack | Status |
-|:---|:---|:---:|
-| *(Add your Advanced projects here)* | `HTML` `CSS` `JS` | 🔄 |
-
-</details>
+*No Advanced challenges yet — the grind continues!*
 
 ---
 
@@ -167,5 +160,3 @@
 </a>
 
 </div>
-
-
